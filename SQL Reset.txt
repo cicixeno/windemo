@@ -1,0 +1,3 @@
+delete from temp;
+truncate pid;
+update read_page set status=0;
